@@ -1,0 +1,378 @@
+---
+title: "Curriculum Vitae"
+author: Toru Maruyama
+date: "`2021-10-31`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: 
+      - override.css # OVERIDE CERTAIN FUNCTIONS OF CSS
+      - resume
+    
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+![Toru Maruyama](./easy-markdown-cv/src/img/crosstalk1-01.jpg)
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> [Mail](mailto:marui1009@yahoo.co.jp)
+- <i class="fa fa-github"></i> [Github](https://github.com/tmaruy)
+- <i class="fa fa-phone"></i> +81 90-1842-8177
+- <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/toru-maruyama-890a597a/)
+- <i class="fa fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Toru-Maruyama-2)
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on 2022-04-10
+
+
+
+Main
+================================================================================
+
+Dr. Toru Maruyama {#title}
+--------------------------------------------------------------------------------
+
+Data scientist / Bioinformatics researcher who is passionate to solve biological questions using molecular/cellular data from patients and experiments
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Scientist
+
+Chugai Pharmaceutical Co. Ltd., Research Department
+
+Kanagawa, Japan
+
+2018 - Now
+
+- Cancer immunology research using clinical multi-omics datasets
+- Hypothesis generation from medical claims database
+- Development of in-house database
+
+### Visiting scientist
+
+F. Hoffmann-La Roche, pRED (Research and Early Development)
+
+Basel, Switzerland
+
+2020 - 2022
+
+- Multi-omics research for host-microbe interaction in auto-immune diseases
+- Development of metabolic modeling approach to infer host-microbe crosstalk
+
+### Research Fellow (DC2)
+
+Japan Society for the Promotion of Science (JSPS)
+
+Tokyo, Japan
+
+2016 - 2018
+
+**Grant**: Grants-in-Aid for Scientific Research, Japan Society for the Promotion of Science (JSPS), ¥1700,000 (Acceptance rate: 20 %)
+
+### Internship
+
+Eisai inc., Andover innovative Medicines (AiM) 
+
+Andover, Boston, USA
+
+2016
+
+### Research Associate
+
+Waseda University
+
+Tokyo, Japan
+
+2015 - 2016
+
+**Teaching experience**: “Basic Experiments in Science and Engineering IA”
+
+
+
+Education {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### Doctor of Engineering, Bioinformatics
+
+Waseda University, Dept of Life Science and Medical Bioscience
+
+Tokyo, Japan
+
+2015 – 2018
+
+**Project**: Multi-omics analysis to decipher crosstalk between host and microbes
+
+
+### Master of Engineering, Bioinformatics
+
+Waseda University, Dept of Life Science and Medical Bioscience
+
+Tokyo, Japan
+
+2013 – 2015
+
+**Project**: Relevance between naive pluripotency of iPS/ES cells and embryogenesis  
+**Award**: Repayment Exemption for Students with Excellent Grades, Japan Student Services Organization (JASSO) Type I (interest-free) scholarship (Exemption of all of loan)
+    
+
+### Visiting Student
+
+Kyoto University, Center for iPS Cell Research and Application (CiRA)
+
+Kyoto, Japan
+
+2013 – 2014
+
+### Visiting Student
+
+University of California, Los Angeles, David Geffen School of Medicine
+
+Los Angeles, CA, USA
+
+2013
+
+**Scholarship**: UCLA CSST Program Fellowship, $9000
+
+### Bachelor of Science, Life Science    
+
+Waseda University, Dept of Life Science and Medical Bioscience
+
+Tokyo, Japan
+
+2009 – 2013
+
+**GPA in major**: 3.74
+
+
+Selected publications {data-icon=copy}
+--------------------------------------------------------------------------------
+
+### Interactions of mMDSC and inflammatory stromal cells create pro-tumor niche in adjacent tissue of non-small lung cell lung carcinoma.
+
+Under review
+
+N/A
+
+2023
+
+**Maruyama T**, Kayukawa Y, Natori O, Sonobe Y, Nishito Y, Sawada N, Tsukada K, Yabuki N, Terashima H, Hashimoto E, Takahashi M, Nishizawa T, Arai Y, Kitano S, Motoi N, Yoshida Y, Watanabe S, Nagata Y, Mitsumori R, Ozaki K, Niida S, Hirayama A, Soga T, Yoshida T, Yasuda K, Shimizu T, Ochiai A, Kitazawa T,Tsunoda H, Aoki K, Mizuno HS
+
+### Multi-omics analysis reveals cross-organism interactions in coral holobiont.
+
+bioRxiv (Under review)
+
+N/A
+
+2022
+
+**Maruyama T**, Ito M, Wakaoji S, Okubo Y, Ide K, Nishikawa Y, Fujimura H, Suda S, Nakano Y, Sato N, Shinzato C, Yura K, Takeyama H
+
+### Targeted single-cell genomics reveals novel host adaptation strategies of the symbiotic bacteria Endozoicomonas in Acropora tenuis coral.
+
+Microbiome. 2022 Dec 10(220)
+
+N/A
+
+2022
+
+Keigo Ide†, Yohei Nishikawa†, **Toru Maruyama†**, Yuko Tsukada, Masato Kogawa, Ryota Wagatsuma, Naoki Takeda, Haruka Ito, Rimi Miyaoka, Yoshikatsu Nakano, Koji Kinjo, Michihiro Ito, Masahito Hosokawa, Kei Yura, Shoichiro Suda, and Haruko Takeyama (†Co-first author)
+
+### SAG-QC: quality control of single amplified genome information by subtracting non-target sequences based on sequence compositions.
+
+BMC Bioinformatics. 2017 Mar 4;18(1):152. 
+
+N/A
+
+2017
+
+**Maruyama T**, Mori T, Yamagishi K, Takeyama H.  
+
+### The naive state of human pluripotent stem cells: a synthesis of stem cell and preimplantation embryo transcriptome analyses.
+
+Cell Stem Cell. 2014 Oct 2;15(4):410-415. 
+
+N/A
+
+2014
+
+Huang K†, **Maruyama T†**, Fan G.  Cell Stem Cell. 15. 4. 410-415. 2014 (†: co-first author)
+
+
+Other publications {data-icon=copy}
+--------------------------------------------------------------------------------
+
+### Multi-omics perspective of spread through air spaces of lung adenocarcinoma and squamous cell carcinoma.
+
+In preparation
+
+N/A
+
+2023
+
+Nishito Y, **Maruyama T**, Sonobe Y, Kayukawa Y, ..., Aoki K, Mizuno H, Motoi N
+
+### Precise profiling of tumor-infiltrating lymphocytes defines three immune subtypes of NSCLC with distinct signaling pathways and genetic alterations.
+
+Cancer Research Communications
+
+N/A
+
+2023
+
+Aoki K, Nishito Y, Motoi N, Arai Y, ..., **Maruyama T**, ..., Mizuno H, Tsunoda H, Ochiai A
+
+### Alzheimer’s Disease Heterogeneity Explained by Polygenic Risk Scores Derived from Brain Transcriptomic Profiles.
+
+Alzheimers Diment. 2023 May 11;
+
+N/A
+
+2023
+
+Chung J, Sahelijo N, **Maruyama T**, Hu J, Panitch R, Xia W, Mez J, Stein TD, Saykin AJ, Takeyama H, Farrer LA, Crane PK, Nho K, Jun GR.
+
+### Combination of the T cell-redirecting bispecific antibody ERY974 and chemotherapy reciprocally enhances antitumor activity against non-inflamed tumors.
+
+Nat Commun. 2022 Sep 13;5265
+
+N/A
+
+2022
+
+Sano Y, Azuma Y, Tsunenari T, Kayukawa Y, Shinozuka J, Fujii E, Amano J, Sakamoto Y, Nishito Y, **Maruyama T**, Kinoshita Y, Yoshida A, Miyazaki Y, Ishiguro T, Tanaka T, Kitazawa T, Endo M
+
+### Enrichment of bacteria and alginate lyase genes potentially involved in brown alga degradation in the gut of marine gastropods.
+
+Sci Rep. 2019 Feb 14;9(1):2129. 
+
+N/A
+
+2019
+
+Ito M, Watanabe K, **Maruyama T**, Mori T, Niwa K, Chow S, Takeyama H.  
+
+### Genome-wide association study of Alzheimer’s disease endophenotypes at prediagnosis stages.
+
+Alzheimers Dement. 2018 May;14(5):623-633. 
+
+N/A
+
+2018
+
+Chung J, Wang X, **Maruyama T**, Ma Y, Zhang X, Mez J, Sherva R, Takeyama H, Alzheimer’s Disease Neuroimaging Initiative, Lunetta KL, Farrer LA, Jun GR.
+
+### Does the prenatal bisphenol A exposure alter DNA methylation levels in the mouse hippocampus?: An analysis using a high-sensitivity methylome technique.
+
+Genes Environ. 2018 Jun 4;40:12. 
+
+N/A
+
+2018
+
+Aiba T, Saito T, Hayashi A, Sato S, Yunokawa H, **Maruyama T**, Fujibuchi W, Ohsako S.
+
+### A metabarcoding survey for seasonal picophytoplankton composition in two coral reefs around Sesoko Island, Okinawa, Japan.
+
+J Appl Phycol 2018;30:3179–3186.
+
+N/A
+
+2018
+
+Nuryadi H, Nguyen TT, Ito M, Okada N, Wakaoji S, **Maruyama T**, Nakano Y, Fujimura H, Takeyama H, Suda S.
+
+### Methylated site display (MSD)-AFLP, a sensitive and affordable method for analysis of CpG methylation profiles.
+
+BMC Mol Biol. 2017 Mar 9;18(1):7.
+
+N/A
+
+2017
+
+Aiba T, Saito T, Hayashi A, Sato S, Yunokawa H, **Maruyama T**, Fujibuchi W, Kurita H, Tohyama C, Ohsako S.
+
+### Balancing intestinal and systemic inflammation through cell type-specific expression of the aryl hydrocarbon receptor repressor.
+
+Sci Rep. 2016 May 17;6:26091. 
+
+N/A
+
+2016
+
+Brandstatter O, Schanz O, Vorac J, Konig J, Mori T, **Maruyama T**, Korkowski M, Haarmann-Stemmann T, von Smolinski D, Schultze JL, Abel J, Esser C, Takeyama H, Weighardt H, Foerster I.
+
+### Analysis of bacterial xylose isomerase gene diversity using gene-targeted metagenomics.
+
+J Biosci Bioeng. 2015 Aug;120(2):174-80.
+
+N/A
+
+2015
+
+Nurdiani D, Ito M, **Maruyama T**, Terahara T, Mori T, Ugawa S, Takeyama H.
+
+### Monodisperse Picoliter Droplets for Low-Bias and Contamination-Free Reactions in Single-Cell Whole Genome Amplification.
+
+PLoS One. 2015 Sep 21;10(9):e0138733.
+
+N/A
+
+2015
+
+Nishikawa Y, Hosokawa M, **Maruyama T**, Yamagishi K, Mori T, Takeyama H.
+
+### The impact of collapsing data on microarray analysis and DILI prediction.
+
+Systems Biomedicine 2013:2(1):16-22. 
+
+N/A
+
+2013
+
+Pessiot JF, Wong PS, **Maruyama T**, Morioka R, Aburatani S, Tanaka M, Fujibuchi W.
+
+
+Skills {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Research domain
+* **Research area**: Systems biology, Bioinformatics
+* **Disease area**: Oncology, Inflammatory bowel disease
+* **Data area**: Transcriptome, Genome, Single-cell omics (RNAseq, TCR, CITEseq, Velocity), Microbiome (16S, Shotgun), Metabolome, Medical claims database
+
+N/A
+
+### Computational skills
+* Programming skills in **R** and **Python**
+* Skills for data handling (e.g. **numpy, pandas and tidyverse**) and data visualization (e.g. **seaborn and ggplot2**)
+* Database development with **mySQL**
+* R package development with **devtools** and **roxygen2** 
+* Python library development
+* Dashboard development with **R shiny** and **Python Dash**
+* Experience in containerization technology (**Docker/Singularity**)
+* Workflow development with **Common Workflow Language**
+* Optimization problem (especially for **metabolic modeling** like Flux Balance Analysis)
+* Code management with **git**
+
+N/A
+
+### Language
+* Japanese (Native)
+* English (Business level, TOEIC score 915)
+
+N/A
